@@ -1,0 +1,10 @@
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\Release\LIB.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\Release\LIB.pdb
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\Release\AForge.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\Release\AForge.Imaging.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\Release\AForge.Math.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\Release\AForge.xml
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\Release\AForge.Imaging.xml
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\Release\AForge.Math.xml
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\obj\Release\LIB.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\obj\Release\LIB.pdb

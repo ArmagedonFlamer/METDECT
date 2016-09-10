@@ -1,0 +1,11 @@
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\x64\Debug\LIB.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\x64\Debug\LIB.pdb
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\x64\Debug\AForge.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\x64\Debug\AForge.Imaging.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\x64\Debug\AForge.Math.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\x64\Debug\AForge.xml
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\x64\Debug\AForge.Imaging.xml
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\bin\x64\Debug\AForge.Math.xml
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\obj\x64\Debug\LIB.csprojResolveAssemblyReference.cache
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\obj\x64\Debug\LIB.dll
+C:\Users\Milenkom\Desktop\Projects\LIB\LIB\obj\x64\Debug\LIB.pdb
