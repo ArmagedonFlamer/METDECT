@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "meteors", "meteors\meteors.csproj", "{27B9D5B4-9F94-41B3-BB1E-7E53292DA4BD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{52A189A9-10BE-4E5E-9939-8CC976F0EAC3} = {52A189A9-10BE-4E5E-9939-8CC976F0EAC3}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIB", "..\LIB\LIB\LIB.csproj", "{52A189A9-10BE-4E5E-9939-8CC976F0EAC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27B9D5B4-9F94-41B3-BB1E-7E53292DA4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B9D5B4-9F94-41B3-BB1E-7E53292DA4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B9D5B4-9F94-41B3-BB1E-7E53292DA4BD}.Debug|x64.ActiveCfg = Debug|x64
+		{27B9D5B4-9F94-41B3-BB1E-7E53292DA4BD}.Debug|x64.Build.0 = Debug|x64
+		{27B9D5B4-9F94-41B3-BB1E-7E53292DA4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B9D5B4-9F94-41B3-BB1E-7E53292DA4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B9D5B4-9F94-41B3-BB1E-7E53292DA4BD}.Release|x64.ActiveCfg = Release|x64
+		{27B9D5B4-9F94-41B3-BB1E-7E53292DA4BD}.Release|x64.Build.0 = Release|x64
+		{52A189A9-10BE-4E5E-9939-8CC976F0EAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52A189A9-10BE-4E5E-9939-8CC976F0EAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52A189A9-10BE-4E5E-9939-8CC976F0EAC3}.Debug|x64.ActiveCfg = Debug|x64
+		{52A189A9-10BE-4E5E-9939-8CC976F0EAC3}.Debug|x64.Build.0 = Debug|x64
+		{52A189A9-10BE-4E5E-9939-8CC976F0EAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52A189A9-10BE-4E5E-9939-8CC976F0EAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52A189A9-10BE-4E5E-9939-8CC976F0EAC3}.Release|x64.ActiveCfg = Release|x64
+		{52A189A9-10BE-4E5E-9939-8CC976F0EAC3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
